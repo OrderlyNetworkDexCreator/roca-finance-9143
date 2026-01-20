@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "ROCA DEX is a next-generation perpetuals trading platform powered by deep liquidity and a premium, trader-first interface. Trade top crypto markets with advanced order types, real-time data, and a secure, fast experience built for performance.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap,Rewards,Vaults,Points",
+  "VITE_ENABLED_MENUS": "Portfolio,Markets,Leaderboard,Swap,Points,Trading",
   "VITE_CUSTOM_MENUS": "BRIDGE, https://bridge.rocafi.com/; STAKE $ROCA, https://dapp.rocafi.com/; JOIN ICO, https://ico.rocafi.com/login",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
