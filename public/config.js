@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "Roca Finance",
+  "VITE_ORDERLY_BROKER_NAME": "ROCA DEX-PERP",
   "VITE_BROKER_EOA_ADDRESS": "0x21a128902b007779aa9e4770ef693c0716e57978",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "f4c5440b6f9bb4f05b476e136de3edd1",
-  "VITE_APP_NAME": "Roca Finance",
+  "VITE_APP_NAME": "ROCA DEX-PERP",
   "VITE_APP_DESCRIPTION": "ROCA DEX is a next-generation perpetuals trading platform powered by deep liquidity and a premium, trader-first interface. Trade top crypto markets with advanced order types, real-time data, and a secure, fast experience built for performance.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
